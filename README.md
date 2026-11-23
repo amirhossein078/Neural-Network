@@ -1,6 +1,9 @@
 # 🧠 Neural Network
 
-# 🇮🇷 درباره پروژه
+<h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Iran_%281965%E2%80%931979%29.svg/40px-Flag_of_Iran_%281965%E2%80%931979%29.svg.png" width="30">
+  درباره پروژه
+</h2>
 
 این ریپازیتوری با هدف یادگیری، پیاده‌سازی و درک عمیق‌تر مفاهیم شبکه‌های عصبی (Neural Networks) ایجاد شده است.
 
