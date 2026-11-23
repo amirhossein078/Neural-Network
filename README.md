@@ -1,5 +1,4 @@
-# Neural-Network
-🧠 Neural Network
+# 🧠 Neural Network
 
 🇮🇷 درباره پروژه
 
