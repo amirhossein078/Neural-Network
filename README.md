@@ -41,7 +41,7 @@
 
 ---
 
-# 🇬🇧 About This Repository
+# About This Repository
 
 This repository is created for learning, implementing, and exploring Neural Networks and Deep Learning concepts.
 
