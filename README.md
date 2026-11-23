@@ -1,7 +1,7 @@
 # 🧠 Neural Network
 
 <h2>
-  <img src="https://commons.wikimedia.org/wiki/File:Naval_flag_of_Iran_standard.svg" width="30">
+  <img src="https://fa.wikipedia.org/wiki/پرچم_شیر_و_خورشید#/media/پرونده:Flag_of_Iran_with_Official_Lion_and_Sun_emblem_stylized_1970s.svg" width="30">
   درباره پروژه
 </h2>
 
