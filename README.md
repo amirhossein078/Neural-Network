@@ -1,6 +1,6 @@
 # 🧠 Neural Network
 
-🇮🇷 درباره پروژه
+# 🇮🇷 درباره پروژه
 
 این ریپازیتوری با هدف یادگیری، پیاده‌سازی و درک عمیق‌تر مفاهیم شبکه‌های عصبی (Neural Networks) ایجاد شده است.
 
@@ -8,7 +8,7 @@
 
 هدف این پروژه صرفاً استفاده از مدل‌های آماده نیست، بلکه تلاش برای درک نحوه عملکرد شبکه‌های عصبی، ساختار نورون‌ها، وزن‌ها، بایاس‌ها، توابع فعال‌سازی و فرآیند آموزش مدل‌ها است.
 
-📚 موضوعات پوشش داده‌شده
+# 📚 موضوعات پوشش داده‌شده
 
 - Neural Network Fundamentals
 - Artificial Neurons
@@ -22,7 +22,7 @@
 - TensorFlow
 - PyTorch
 
-🛠 تکنولوژی‌ها
+# 🛠 تکنولوژی‌ها
 
 - Python
 - NumPy
@@ -31,7 +31,7 @@
 - PyTorch
 - Scikit-learn
 
-🎯 هدف
+# 🎯 هدف
 
 - درک اصول و ساختار شبکه‌های عصبی
 - پیاده‌سازی شبکه‌های عصبی از پایه
@@ -41,7 +41,7 @@
 
 ---
 
-🇬🇧 About This Repository
+# 🇬🇧 About This Repository
 
 This repository is created for learning, implementing, and exploring Neural Networks and Deep Learning concepts.
 
@@ -49,7 +49,7 @@ It covers neural network fundamentals, starting from basic artificial neurons an
 
 The main goal is not just to use pre-built models, but to understand how neural networks work internally, including their architecture, weights, biases, activation functions, and training process.
 
-📚 Topics Covered
+# 📚 Topics Covered
 
 - Neural Network Fundamentals
 - Artificial Neurons
@@ -63,7 +63,7 @@ The main goal is not just to use pre-built models, but to understand how neural 
 - TensorFlow
 - PyTorch
 
-🛠 Technologies
+# 🛠 Technologies
 
 - Python
 - NumPy
@@ -72,7 +72,7 @@ The main goal is not just to use pre-built models, but to understand how neural 
 - PyTorch
 - Scikit-learn
 
-🎯 Goals
+# 🎯 Goals
 
 - Understand the fundamentals of neural networks
 - Implement neural networks from scratch
@@ -82,6 +82,6 @@ The main goal is not just to use pre-built models, but to understand how neural 
 
 ---
 
-📌 This repository is continuously updated as I learn and explore new concepts and techniques.
+ 📌 This repository is continuously updated as I learn and explore new concepts and techniques.
 
 ⭐ Feel free to explore the repository!
